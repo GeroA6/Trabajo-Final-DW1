@@ -341,7 +341,7 @@ main{
 /* Fin pagina contacto */
 
 .nosotrosWrap{
-    background: url(/multimedia/arreglo-de-vista-superior-de-citricos-con-jugo.jpg);
+    background: url(multimedia/arreglo-de-vista-superior-de-citricos-con-jugo.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
