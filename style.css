@@ -108,7 +108,7 @@ main{
 .principal{
     background-image: url(multimedia/salon.jpg);
     background-size: cover;
-    background-position: center; 
+    background-position: left; 
     display: flex;
     flex-direction: column;
     justify-content: center;
