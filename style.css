@@ -31,7 +31,7 @@ main{
     -webkit-text-fill-color: transparent;
 }
 
-.seleccionado{
+.navegacion__boton--seleccionado{
     background-color: var(--span-color);
     border-radius: 3px;
 }
