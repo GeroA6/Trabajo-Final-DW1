@@ -504,6 +504,7 @@ main{
     .contacto__datos, .contacto__gps{
         width: 100%;
         max-width: 800px;
+        max-height: none;
     }
     .datos__horario{
         width: 100%;
